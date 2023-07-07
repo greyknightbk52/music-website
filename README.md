@@ -109,7 +109,7 @@ git clone git@gitee.com:Yin-hongwei/music-website.git
 
 ### 2、下载数据库中记录的资源
 
-去【链接: https://pan.baidu.com/s/1Qv0ohAIPeTthPK_CDwpfWg 提取码: gwa4 】下载网站依赖的歌曲及图片，将 data 夹里的文件放到 music-server 文件夹下。
+去【链接: https://drive.google.com/file/d/1k8_PxDVdKCs5IwInNi2O_ixgEQytRlX3 】下载网站依赖的歌曲及图片，将 data 夹里的文件放到 music-server 文件夹下。
 
 > 注意：资源整理了一下，按照下面的截图存放。
 
